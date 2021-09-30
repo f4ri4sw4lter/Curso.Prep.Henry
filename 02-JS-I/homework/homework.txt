@@ -1,0 +1,8 @@
+* Variables: Imaginar un espacio de la memoria de la compu, como una cajita, donde guardas algo que vas a usar o 
+  necesitar mas tarde.
+* Strings: Son cadenas de letras y simbolos unidos, como un mensaje.
+* Funciones (argumentos, `return`): Las funciones son acciones que nosotros vamos a repetir durante nuestro programa,
+  y a las que les podemos asignar un resultado esperado que deseemos.
+* Declaraciones `if`: Es una condicion que vos le pones al programa para decirle como debe actuar si eso pasa.
+* Valores booleanos (`true`, `false`): Es como indicar un "si" y un "no", donde el valor true o de "verdad" indicaria
+  un afirmativo a nuestro resultado, mientras que el de false o "falso" indicaria la negativa del resultado esperado.
